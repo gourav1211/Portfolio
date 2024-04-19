@@ -1,6 +1,4 @@
-/*!
- * Author: Akash Bhadange
- */
+
 
  body {
   font-family: 'Open Sans', sans-serif;
@@ -144,10 +142,10 @@ h1.heading:after {
   width: 100px;
 }
 h1.heading.purple:after {
-  background-color: #7447ae;
+  background-color: #e36b14;
 }
 h1.heading.pink:after {
-  background-color: #ff2a75;
+  background-color: #e36b14;
 }
 
 
